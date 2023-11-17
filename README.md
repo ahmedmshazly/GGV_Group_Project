@@ -52,5 +52,5 @@ Special thanks to my team members for their collaboration and contributions, and
 ---
 
 ### Contact Information
-For more information or queries regarding this project, please reach out at [Your Email].
+For more information or queries regarding this project, please reach out at [ahmdmshazly@gmail.com].
 
